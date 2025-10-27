@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img align="right" src="images/code.gif" alt="Code GIF" width="260" height="160" style="margin-left: 20px;"/>
 
@@ -24,7 +24,38 @@
 - 💬 Ask me about **robotics automation, AI integration, or microcontroller projects**  
 - 🎯 Goal: To design robots that learn, adapt, and assist humans autonomously  
 
-</div>
+</div> -->
+
+<table>
+  <tr>
+    <td align="left" width="60%">
+      
+      <h2>👋 Hi, I'm Jaywardhan Thorat</h2>
+      <p>
+        I'm a <strong>Robotics Developer</strong> who loves building autonomous bots and integrating smart systems.  
+        I work on <strong>line-following</strong>, <strong>maze-solving</strong>, and <strong>AI-powered robots</strong> that make automation smarter and efficient.  
+        Passionate about computer vision, embedded systems, and AI-based robotics development.  
+      </p>
+
+      <h3>🚀 What I Do</h3>
+      <ul>
+        <li>Design and code robots (Arduino, Raspberry Pi, ESP32)</li>
+        <li>Develop control algorithms — PID, maze-solving, line-following</li>
+        <li>Integrate sensors, cameras, and automation systems</li>
+      </ul>
+
+      <h3>🔗 Connect with Me</h3>
+      <p>
+        🌐 <a href="https://github.com/jaybt9677" target="_blank">GitHub Profile</a>  
+      </p>
+    </td>
+
+    <td align="center" width="40%">
+      <img src="images/robotics.gif" alt="Robotics GIF" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
