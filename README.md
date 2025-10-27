@@ -86,7 +86,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jaybt9977" target="_blank">
     <!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> -->
-    <img src="images/linkedin.png" alt="LinkedIn" width="100" />
+    <img src="images/linkedin.png" alt="LinkedIn" />
 </p>
   </a>
   &nbsp;
