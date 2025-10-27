@@ -26,6 +26,8 @@
 
 </div>  -->
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+  <!-- LEFT SIDE: ABOUT SECTION -->
   <div style="flex: 1; text-align: left;">
 
   <h2>🧠 About Me</h2>
@@ -42,10 +44,12 @@
 
   </div>
 
-  <div style="margin-left: 30px;">
-    <img src="images/code.gif" alt="Robotics GIF" width="400" />
+  <!-- RIGHT SIDE: GIF -->
+  <div style="flex-shrink: 0; margin-left: 40px;">
+    <img src="images/code.gif" alt="Robotics GIF" width="400" style="border-radius: 10px;"/>
   </div>
 </div>
+
 
 
 
