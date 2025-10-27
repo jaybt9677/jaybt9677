@@ -10,9 +10,9 @@
 
 ---
 
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="55%" valign="top">
+<td width="65%" valign="top">
 
 ### 🧠 About Me  
 - 🔭 Currently building **autonomous and intelligent robots**  
@@ -24,12 +24,8 @@
 - 🎯 Goal: To design robots that learn, adapt, and assist humans autonomously  
 
 </td>
-<td width="45%" align="center">
-  <p align="center">
-  <img src="images/code.gif" alt="Test GIF" width="300" style="display:block; margin:0; padding:0; border:none;" />
-</p>
-
-  <!--<img src="images/code.gif" alt="Code GIF" width="300" height="200" style="display:block; margin:0; padding:0; border:none;" /> -->
+<td width="35%" align="center">
+  <img src="images/code.gif" alt="Code GIF" width="250" height="150" style="border:none;"/>
 </td>
 </tr>
 </table>
