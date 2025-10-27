@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img align="right" src="images/code.gif" alt="Code GIF" width="260" height="160" style="margin-left: 20px;"/>
 
@@ -24,7 +24,29 @@
 - 💬 Ask me about **robotics automation, AI integration, or microcontroller projects**  
 - 🎯 Goal: To design robots that learn, adapt, and assist humans autonomously  
 
-</div> 
+</div>  -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1; text-align: left;">
+
+  <h2>🧠 About Me</h2>
+
+  <ul>
+    <li>🤖 Currently building <strong>autonomous and intelligent robots</strong></li>
+    <li>🎯 Experienced with <strong>line-following</strong>, <strong>maze-solving</strong>, and <strong>camera vision bots</strong></li>
+    <li>💻 Skilled in <strong>C++ | Python | ROS | OpenCV | MicroPython | Linux (Ubuntu)</strong></li>
+    <li>🔧 Hands-on with <strong>Raspberry Pi, Arduino, ESP32, DRV8833, VL53L0X sensors</strong></li>
+    <li>🧩 Currently learning <strong>AI/ML, MLOps, and advanced Robotics Control (PID, SLAM)</strong></li>
+    <li>💬 Ask me about <strong>robotics automation, AI integration, or microcontroller projects</strong></li>
+    <li>🎯 <strong>Goal:</strong> To design robots that learn, adapt, and assist humans autonomously</li>
+  </ul>
+
+  </div>
+
+  <div style="margin-left: 30px;">
+    <img src="images/robotics.gif" alt="Robotics GIF" width="400" />
+  </div>
+</div>
+
 
 
 ---
