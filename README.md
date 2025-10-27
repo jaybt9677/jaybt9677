@@ -85,7 +85,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaybt9977" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="80" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/jaybt_9977/" target="_blank">
@@ -96,6 +96,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 
 ---
