@@ -27,7 +27,7 @@
     </td>
     <!-- RIGHT SIDE -->
     <td style="vertical-align: middle; text-align: center; border: none; width: 30%;">
-      <img src="images/robotics.gif" alt="Robotics GIF" width="400" style="border-radius: 10px;"/>
+      <img src="images/code.gif" alt="Robotics GIF" width="400" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
