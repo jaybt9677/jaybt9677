@@ -10,51 +10,11 @@
 
 ---
 
-<!-- <div align="center">
-
-<img align="right" src="images/code.gif" alt="Code GIF" width="260" height="160" style="margin-left: 20px;"/>
-
-### 🧠 About Me  
-
-- 🔭 Currently building **autonomous and intelligent robots**  
-- 🤖 Experienced with **line-following, maze-solving, and camera vision bots**  
-- 💻 Skilled in **C++ | Python | ROS | OpenCV | MicroPython | Linux (Ubuntu)**  
-- 📡 Hands-on with **Raspberry Pi, Arduino, ESP32, DRV8833, VL53L0X sensors**  
-- 🌱 Currently learning **AI/ML, MLOps, and advanced Robotics Control (PID, SLAM)**  
-- 💬 Ask me about **robotics automation, AI integration, or microcontroller projects**  
-- 🎯 Goal: To design robots that learn, adapt, and assist humans autonomously  
-
-</div>  -->
-<!-- <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-  <!-- LEFT SIDE: ABOUT SECTION -->
-  <div style="flex: 1; text-align: left;">
-
-  <h2>🧠 About Me</h2>
-
-  <ul>
-    <li>🤖 Currently building <strong>autonomous and intelligent robots</strong></li>
-    <li>🎯 Experienced with <strong>line-following</strong>, <strong>maze-solving</strong>, and <strong>camera vision bots</strong></li>
-    <li>💻 Skilled in <strong>C++ | Python | ROS | OpenCV | MicroPython | Linux (Ubuntu)</strong></li>
-    <li>🔧 Hands-on with <strong>Raspberry Pi, Arduino, ESP32, DRV8833, VL53L0X sensors</strong></li>
-    <li>🧩 Currently learning <strong>AI/ML, MLOps, and advanced Robotics Control (PID, SLAM)</strong></li>
-    <li>💬 Ask me about <strong>robotics automation, AI integration, or microcontroller projects</strong></li>
-    <li>🎯 <strong>Goal:</strong> To design robots that learn, adapt, and assist humans autonomously</li>
-  </ul>
-
-  </div>
-
-  <!-- RIGHT SIDE: GIF -->
-  <div style="flex-shrink: 0; margin-left: 40px;">
-    <img src="images/code.gif" alt="Robotics GIF" width="400" style="border-radius: 10px;"/>
-  </div>
-</div> -->
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <!-- LEFT SIDE -->
     <td style="vertical-align: top; text-align: left; border: none; width: 70%;">
       <h2>🧠 About Me</h2>
-
       <ul>
         <li>🤖 Currently building <strong>autonomous and intelligent robots</strong></li>
         <li>🎯 Experienced with <strong>line-following</strong>, <strong>maze-solving</strong>, and <strong>camera vision bots</strong></li>
@@ -65,7 +25,6 @@
         <li>🎯 <strong>Goal:</strong> To design robots that learn, adapt, and assist humans autonomously</li>
       </ul>
     </td>
-
     <!-- RIGHT SIDE -->
     <td style="vertical-align: middle; text-align: center; border: none; width: 30%;">
       <img src="images/robotics.gif" alt="Robotics GIF" width="400" style="border-radius: 10px;"/>
