@@ -10,12 +10,13 @@
 
 ---
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr>
-    <!-- LEFT SIDE -->
-    <td style="vertical-align: top; text-align: left; border: none; width: 70%;">
-      <h2>🧠 About Me</h2>
-      <div style="font-size: 10px;">
+<!-- 🧠 ABOUT SECTION WITH GIF -->
+<section style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 30px; width: 100%; padding: 20px 0;">
+
+  <!-- LEFT SIDE -->
+  <div style="flex: 1; text-align: left; min-width: 300px;">
+    <h2>🧠 About Me</h2>
+    <div style="font-size: 13px; line-height: 1.6;">
       <ul>
         <li>🤖 Currently building <strong>autonomous and intelligent robots</strong></li>
         <li>🎯 Experienced with <strong>line-following</strong>, <strong>maze-solving</strong>, and <strong>camera vision bots</strong></li>
@@ -25,18 +26,15 @@
         <li>💬 Ask me about <strong>robotics automation, AI integration, or microcontroller projects</strong></li>
         <li>🎯 <strong>Goal:</strong> To design robots that learn, adapt, and assist humans autonomously</li>
       </ul>
-        <div>
-    </td>
-    <!-- RIGHT SIDE -->
-    <td style="vertical-align: middle; text-align: center; border: none; width: 30%;">
-      <img src="images/code.gif" alt="Code GIF" width="200" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
 
+  <!-- RIGHT SIDE -->
+  <div style="flex-shrink: 0; text-align: center;">
+    <img src="images/code.gif" alt="Code GIF" width="220" style="border-radius: 12px;" />
+  </div>
 
-
-
+</section>
 
 ---
 
@@ -82,10 +80,9 @@
 ---
 
 ### 🌐 Connect with Me  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jaybt9977" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/jaybt_9977/" target="_blank">
@@ -97,9 +94,6 @@
   </a>
 </p>
 
-
-
 ---
-
 
 <h3 align="center">⚡ "Building robots that think, act, and evolve — one line of code at a time." ⚡</h3>
