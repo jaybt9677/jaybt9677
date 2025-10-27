@@ -2,9 +2,9 @@
 <h3 align="center">Robotics Developer | AI & ML Enthusiast | Embedded Systems Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaywardhanThorat&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-  <a href="https://github.com/JaywardhanThorat?tab=followers">
-    <img src="https://img.shields.io/github/followers/JaywardhanThorat?label=Followers&style=social" alt="followers-count"/>
+  <img src="https://komarev.com/ghpvc/?username=jaybt9677&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <a href="https://github.com/jaybt9677?tab=followers">
+    <img src="https://img.shields.io/github/followers/jaybt9677?label=Followers&style=social" alt="followers-count"/>
   </a>
 </p>
 
@@ -56,8 +56,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaywardhanThorat&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaywardhanThorat&theme=tokyonight" alt="streak stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaybt9677&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaybt9677&theme=tokyonight" alt="streak stats" width="48%"/>
 </p>
 
 ---
