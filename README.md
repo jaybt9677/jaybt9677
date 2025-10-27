@@ -10,11 +10,12 @@
 
 ---
 
-<table style="border-collapse: collapse; border: none;">
-<tr>
-<td width="65%" valign="top">
+<div align="center">
+
+<img align="right" src="images/code.gif" alt="Code GIF" width="260" height="160" style="margin-left: 20px;"/>
 
 ### 🧠 About Me  
+
 - 🔭 Currently building **autonomous and intelligent robots**  
 - 🤖 Experienced with **line-following, maze-solving, and camera vision bots**  
 - 💻 Skilled in **C++ | Python | ROS | OpenCV | MicroPython | Linux (Ubuntu)**  
@@ -23,12 +24,7 @@
 - 💬 Ask me about **robotics automation, AI integration, or microcontroller projects**  
 - 🎯 Goal: To design robots that learn, adapt, and assist humans autonomously  
 
-</td>
-<td width="35%" align="center">
-  <img src="images/code.gif" alt="Code GIF" width="250" height="150" style="border:none;"/>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
