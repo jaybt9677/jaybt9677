@@ -43,7 +43,7 @@
   </div>
 
   <div style="margin-left: 30px;">
-    <img src="images/robotics.gif" alt="Robotics GIF" width="400" />
+    <img src="images/code.gif" alt="Robotics GIF" width="400" />
   </div>
 </div>
 
