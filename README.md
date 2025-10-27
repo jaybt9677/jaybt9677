@@ -15,7 +15,7 @@
     <!-- LEFT SIDE -->
     <td style="vertical-align: top; text-align: left; border: none; width: 70%;">
       <h2>🧠 About Me</h2>
-      <div style="font-size: 15px;">
+      <div style="font-size: 10px;">
       <ul>
         <li>🤖 Currently building <strong>autonomous and intelligent robots</strong></li>
         <li>🎯 Experienced with <strong>line-following</strong>, <strong>maze-solving</strong>, and <strong>camera vision bots</strong></li>
@@ -29,7 +29,7 @@
     </td>
     <!-- RIGHT SIDE -->
     <td style="vertical-align: middle; text-align: center; border: none; width: 30%;">
-      <img src="images/code.gif" alt="Robotics GIF" width="400" style="border-radius: 10px;"/>
+      <img src="images/code.gif" alt="Robotics GIF" width="350" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
