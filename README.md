@@ -15,6 +15,7 @@
     <!-- LEFT SIDE -->
     <td style="vertical-align: top; text-align: left; border: none; width: 70%;">
       <h2>🧠 About Me</h2>
+      <div style="font-size: 15px;">
       <ul>
         <li>🤖 Currently building <strong>autonomous and intelligent robots</strong></li>
         <li>🎯 Experienced with <strong>line-following</strong>, <strong>maze-solving</strong>, and <strong>camera vision bots</strong></li>
@@ -24,6 +25,7 @@
         <li>💬 Ask me about <strong>robotics automation, AI integration, or microcontroller projects</strong></li>
         <li>🎯 <strong>Goal:</strong> To design robots that learn, adapt, and assist humans autonomously</li>
       </ul>
+        <div>
     </td>
     <!-- RIGHT SIDE -->
     <td style="vertical-align: middle; text-align: center; border: none; width: 30%;">
