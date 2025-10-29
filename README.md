@@ -30,7 +30,7 @@
     <!-- RIGHT SIDE -->
     <td style="vertical-align: middle; text-align: center; border: none; width: 30%;">
       <!-- <img src="images/code.gif" alt="Code GIF" width="200" style="border-radius: 10px;"/> -->
-      <img align="right" alt="Coding" width="200" src="images/code.gif" style="border-radius: 10px;"> 
+      <img align="right" alt="Coding" width="200" src="images/coder.gif" style="border-radius: 10px;"> 
     </td>
   </tr>
 </table>
