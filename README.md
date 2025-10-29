@@ -77,8 +77,9 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaybt9677&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaybt9677&theme=tokyonight" alt="streak stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=jaybt9677&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%"/>
 </p>
+
 
 ---
 
