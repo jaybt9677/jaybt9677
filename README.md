@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaybt9677&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
   <a href="https://github.com/jaybt9677?tab=followers">
-    <img src="https://img.shields.io/github/followers/jaybt9677?label=Followers&style=social" alt="followers-count"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/jaybt9677?label=Followers&style=social&cacheSeconds=60" alt="followers-count"/>
+</a>
+
 </p>
 
 ---
