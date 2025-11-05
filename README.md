@@ -28,7 +28,6 @@
         </ul>
       </div>
     </td>
-
     <!-- RIGHT SIDE -->
     <td style="vertical-align: middle; text-align: center; border: none; width: 30%;">
       <img align="right" alt="Coding" width="220" src="images/coder.gif" style="border-radius: 10px;">
